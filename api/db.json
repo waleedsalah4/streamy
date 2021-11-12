@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "CodingStream",
+      "id": 1
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "refactored stream",
+      "id": 3
+    }
+  ]
+}
